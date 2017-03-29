@@ -1,0 +1,7 @@
+Create database Skaitliukai;
+
+Use Skaitliukai;
+
+Create table Elektros_Skaitliukai (Skaitliuko_numeris INT NOT NULL, Skaitliuko_parodymai INT NOT NULL);
+
+Create table Vandens_Skaitliukai (Skaitliuko_numeris INT NOT NULL, Skaitliuko_parodymai INT NOT NULL);
